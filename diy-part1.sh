@@ -26,7 +26,7 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 echo 'src-git passwall_packages https://github.com/xiaorouji/openwrt-passwall.git;packages' >>feeds.conf.default
 echo 'src-git passwall_luci https://github.com/xiaorouji/openwrt-passwall.git;luci' >>feeds.conf.default
 
-echo 'src-git bypass https://github.com/tianiue/luci-app-bypass.git' >>feeds.conf.default
+#echo 'src-git bypass https://github.com/tianiue/luci-app-bypass.git' >>feeds.conf.default
 
 echo 'src-git openclash https://github.com/vernesong/OpenClash.git' >>feeds.conf.default
 echo 'src-git wiwiz https://github.com/wiwizcom/WiFiPortal.git' >>feeds.conf.default
